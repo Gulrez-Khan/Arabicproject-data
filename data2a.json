@@ -34,28 +34,28 @@
             {
                 "id": 1,
                 "title": "Rule 1",
-                "video": "Chapter1Rule1.mp4",
+                "video": "Chapter1Rule1a.mp4",
                 "time": "15 secs",
                 "explanation": "There are 29 letters in Arabic language. 28 letters are the consonants. Alif is not consonant it does not have speech sound. When you say ā, it is hamzah not Alif. Hamzah has 3 forms: أ - ؤ - ئ. Long vowels are   ا ,   و , and  ي and they are use for elongation. Short vowels are 3 : fathha, kasrah, dummah. Short Vowels are  بَ    بِ    بُ . Long Vowels بَا     بِى     بُو .  Sakoon(o)  is not a vowel sign. In the word  بُو there is no vowel sign on و so there is sakoon and ب  has dammah. "
             },
             {
                 "id": 2,
                 "title": "Rule 2",
-                "video": "Chapter1Rule2.mp4",
+                "video": "Chapter1Rule2a.mp4",
                 "time": "5 secs",
                 "explanation": "There are 3 part of speech in Arabic language. Noun اسم, Verb فعل and Particle حرف. Noun Includes Pronouns  ضمير  , Adjectives  نعت  , Adverbs   ظرف  and interjections. Noun Includes Prepositions  حرف جر  and Conjunctions عطف. "
             },
              {
                 "id": 3,
                 "title": "Rule 3",
-                "video": "Chapter1Rule3.mp4",
+                "video": "Chapter1Rule3a.mp4",
                 "time": "15 secs",
                 "explanation": " The word هَذَا is pronounced  هَاذَا  ,  but it is written without the first alif. Arabic has no word corresponding to the English word IS  , i.e. Arabic has no copula. There is no word in Arabic corresponding to A in English as in THIS IS A BOOK. The n-sound at the end of the Arabic noun (kitabu-n, baitu-n, masjidu-n) is the Arabic indefinite article corresponding to the English A/AN. This n-sound is called tanwin. e.g. This is a house. هَذَا بَيْتٌ. The particle placed at the beginning of a statement turns it into a question, e.g. This is a house. هَذَا بَيْتٌ   Is this a house?    أَ هَذَا بَيْتٌ "
             },
              {
                 "id": 4,
                 "title": "Rule 4",
-                "video": "Chapter1Rule4.mp4",
+                "video": "Chapter1Rule4a.mp4",
                 "time": "15 secs",
                 "explanation": "In Arabic we use  نَعْم  for  YES  and we use لَا for NO. Things that don't have intelligence are called  Irrational nouns غير عاقل . In Arabic, we use  مَا   meaning  WHAT. e.g. what is this? مَا هَذَا ؟ . This is a house. هَذَا بَيْتٌ . Things that  have intelligence are called  Rational nouns عاقل . In Arabic, we use   مَنْ  meaning  WHO مَنْ هَذَا ؟ . This is a boy. هَذَا وَلَدٌ"
            }
