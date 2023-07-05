@@ -7,10 +7,22 @@
          "image": "one",
          "description": "Chapter 1",
          "vocabs": [
-                     " كِتَابٌ ",
-                     "  بَيْتٌ  ",
-                     " بَابٌ  "
-                 ],
+             {
+                 "id": 0,
+                 "englishWord": "a book",
+                 "arabicWord": "kitabun",
+             },
+             {
+                 "id": 1,
+                 "englishWord": "a house",
+                 "arabicWord": "baytun",
+             },
+             {
+                 "id": 3,
+                 "englishWord": "a door",
+                 "arabicWord": "baabun",
+             }
+         ],
          "lessons": [
              {
                  "id": 0,
