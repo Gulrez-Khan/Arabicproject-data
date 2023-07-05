@@ -43,7 +43,7 @@
                 "title": "Rule 2",
                 "video": "Chapter1Rule2c.mp4",
                 "time": "5 secs",
-                "explanation": "<div class='section' id='the-basics'><p>Constants and variables must be declared before they're used. You declare constants with the let keyword and variables with the var keyword. Here's an example of how constants and variables can be used to track the number of login attempts a user has made:</p>There are 3 part of speech in Arabic language. Noun اسم, Verb فعل and Particle حرف. Noun Includes Pronouns  ضمير  , Adjectives  نعت  , Adverbs   ظرف  and interjections. Noun Includes Prepositions  حرف جر  and Conjunctions عطف. "
+                "explanation": "<p>There are 3 part of speech in Arabic language. Noun اسم, Verb فعل and Particle حرف. Noun Includes Pronouns  ضمير  , Adjectives  نعت  , Adverbs   ظرف  and interjections. Noun Includes Prepositions  حرف جر  and Conjunctions عطف.</p> "
             },
              {
                 "id": 3,
