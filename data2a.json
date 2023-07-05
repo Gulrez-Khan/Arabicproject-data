@@ -10,17 +10,17 @@
              {
                  "id": 0,
                  "englishWord": "a book",
-                 "arabicWord": " كِتَابٌ ",
+                 "arabicWord": " كِتَابٌ "
              },
              {
                  "id": 1,
                  "englishWord": "a house",
-                 "arabicWord": "  بَيْتٌ  ",
+                 "arabicWord": "  بَيْتٌ  "
              },
              {
                  "id": 3,
                  "englishWord": "a door",
-                 "arabicWord": " بَابٌ ",
+                 "arabicWord": " بَابٌ "
              }
          ],
          "lessons": [
