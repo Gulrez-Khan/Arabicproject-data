@@ -6,7 +6,8 @@
          "id": 0,
          "image": "one",
          "description": "Chapter 1",
-         "vocabs": [
+         "vocabVideo": "Chapter1-Vocabulary.mp4",
+         "vocabsList": [
              {
                  "id": 0,
                  "englishWord": "a book",
