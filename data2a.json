@@ -30,22 +30,19 @@
                  "video": "Chapter1-Vocabulary.mp4",
                  "time": "1 min 55 secs",
                  "explanation": [
-                     {
+                       {
                          "id": 0,
-                         "englishWord": "a house",
-                         "arabicWord": "بَيْتٌ"
-                     },
-                     {
+                         "line": "a book. كِتَابٌ "
+                        },
+                        {
                          "id": 1,
-                         "englishWord": "a mosque",
-                         "arabicWord": "مَسْجِدٌ"
-                     },
-                     {
-                         "id": 2,
-                         "englishWord": "a door",
-                         "arabicWord": "بَابٌ "
-                     }
-                 ]
+                         "line": "a house.  بَيْتٌ "
+                         },
+                         {
+                         "id": 3,
+                        "line": "a door.  بَابٌ  "
+                         }
+                ]
              },
             {
                 "id": 1,
