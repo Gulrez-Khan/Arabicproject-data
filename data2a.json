@@ -29,7 +29,7 @@
                  "title": "Vocabulary",
                  "video": "Chapter1-Vocabulary.mp4",
                  "time": "1 min 55 secs",
-                 "explanations": [
+                 "explanation": [
                        {
                          "id": 0,
                          "line": "a book. كِتَابٌ "
@@ -49,132 +49,28 @@
                 "title": "Rule 1",
                 "video": "Chapter1Rule1c.mp4",
                 "time": "15 secs",
-                "explanations": [
-                       {
-                         "id": 0,
-                         "line": "There are 29 letters in Arabic language."
-                        },
-                        {
-                         "id": 1,
-                         "line": "28 letters are the consonants."
-                         },
-                         {
-                         "id": 3,
-                        "line": "Alif is not consonant it does not have speech sound."
-                         },
-                        {
-                         "id": 4,
-                        "line": "Hamzah has 3 forms: أ - ؤ - ئ."
-                         },
-                        {
-                         "id": 5,
-                        "line": "Long vowels are   ا ,   و , and  ي and they are use for elongation."
-                         },
-                        {
-                         "id": 6,
-                        "line": "Short vowels are 3 : fathha, kasrah, dummah."
-                         },
-                        {
-                         "id": 7,
-                        "line": "Short Vowels are  بَ    بِ    بُ . "
-                         },
-                        {
-                         "id": 8,
-                        "line": "Long Vowels بَا     بِى     بُو . "
-                         },
-                        {
-                         "id": 9,
-                        "line": "Sakoon(o)  is not a vowel sign. "
-                         },
-                        {
-                         "id": 10,
-                        "line": "In the word  بُو there is no vowel sign on و so there is sakoon and ب  has dammah. "
-                         }
-                ]
+                "explanation": "There are 29 letters in Arabic language. 28 letters are the consonants. Alif is not consonant it does not have speech sound. When you say ā, it is hamzah not Alif. Hamzah has 3 forms: أ - ؤ - ئ. Long vowels are   ا ,   و , and  ي and they are use for elongation. Short vowels are 3 : fathha, kasrah, dummah. Short Vowels are  بَ    بِ    بُ . Long Vowels بَا     بِى     بُو .  Sakoon(o)  is not a vowel sign. In the word  بُو there is no vowel sign on و so there is sakoon and ب  has dammah. "
             },
             {
                 "id": 2,
                 "title": "Rule 2",
                 "video": "Chapter1Rule2c.mp4",
                 "time": "5 secs",
-                "explanations": [
-                       {
-                         "id": 0,
-                         "line": "There are 3 part of speech in Arabic language."
-                        },
-                        {
-                         "id": 1,
-                         "line": "Arabic has no word corresponding to the English word IS  , i.e. Arabic has no copula."
-                         },
-                         {
-                         "id": 3,
-                        "line": "Noun Includes Pronouns  ضمير  , Adjectives  نعت  , Adverbs   ظرف  and interjections."
-                         },
-                        {
-                         "id": 4,
-                        "line": "Noun Includes Prepositions  حرف جر  and Conjunctions عطف. "
-                         }
-                ]
+                "explanation": "There are 3 part of speech in Arabic language. Noun اسم, Verb فعل and Particle حرف. Noun Includes Pronouns  ضمير  , Adjectives  نعت  , Adverbs   ظرف  and interjections. Noun Includes Prepositions  حرف جر  and Conjunctions عطف. "
             },
              {
                 "id": 3,
                 "title": "Rule 3",
                 "video": "Chapter1Rule3c.mp4",
                 "time": "15 secs",
-                "explanations": [
-                       {
-                         "id": 0,
-                         "line": "The word هَذَا is pronounced  هَاذَا  ,  but it is written without the first alif."
-                        },
-                        {
-                         "id": 1,
-                         "line": "There is no word in Arabic corresponding to A in English as in THIS IS A BOOK."
-                         },
-                         {
-                         "id": 3,
-                        "line": "There is no word in Arabic corresponding to A in English as in THIS IS A BOOK."
-                         },
-                        {
-                         "id": 4,
-                        "line": "The n-sound at the end of the Arabic noun (kitabu-n, baitu-n, masjidu-n) is the Arabic indefinite article corresponding to the English A/AN. "
-                         },
-                      {
-                         "id": 5,
-                         "line": "This n-sound is called tanwin. e.g. This is a house. هَذَا بَيْتٌ."
-                        },
-                        {
-                         "id": 6,
-                         "line": "The particle placed at the beginning of a statement turns it into a question, e.g. This is a house. هَذَا بَيْتٌ   Is this a house?    أَ هَذَا بَيْتٌ"
-                         }
-                ]
+                "explanation": " The word هَذَا is pronounced  هَاذَا  ,  but it is written without the first alif. Arabic has no word corresponding to the English word IS  , i.e. Arabic has no copula. There is no word in Arabic corresponding to A in English as in THIS IS A BOOK. The n-sound at the end of the Arabic noun (kitabu-n, baitu-n, masjidu-n) is the Arabic indefinite article corresponding to the English A/AN. This n-sound is called tanwin. e.g. This is a house. هَذَا بَيْتٌ. The particle placed at the beginning of a statement turns it into a question, e.g. This is a house. هَذَا بَيْتٌ   Is this a house?    أَ هَذَا بَيْتٌ "
             },
              {
                 "id": 4,
                 "title": "Rule 4",
                 "video": "Chapter1Rule4c.mp4",
                 "time": "15 secs",
-                 "explanations": [
-                       {
-                         "id": 0,
-                         "line": "In Arabic we use  نَعْم  for  YES  and we use لَا for NO."
-                        },
-                        {
-                         "id": 1,
-                         "line": "Things that don't have intelligence are called  Irrational nouns غير عاقل ."
-                         },
-                         {
-                         "id": 3,
-                        "line": "In Arabic, we use  مَا   meaning  WHAT. e.g. what is this? مَا هَذَا ؟ . This is a house. هَذَا بَيْتٌ ."
-                         },
-                        {
-                         "id": 4,
-                        "line": "Things that  have intelligence are called  Rational nouns عاقل . "
-                         },
-                        {
-                         "id": 5,
-                         "line": "In Arabic, we use   مَنْ  meaning  WHO مَنْ هَذَا ؟ . This is a boy. هَذَا وَلَدٌ"
-                        }  
-                ]
+                "explanation": "In Arabic we use  نَعْم  for  YES  and we use لَا for NO. Things that don't have intelligence are called  Irrational nouns غير عاقل . In Arabic, we use  مَا   meaning  WHAT. e.g. what is this? مَا هَذَا ؟ . This is a house. هَذَا بَيْتٌ . Things that  have intelligence are called  Rational nouns عاقل . In Arabic, we use   مَنْ  meaning  WHO مَنْ هَذَا ؟ . This is a boy. هَذَا وَلَدٌ"
            }
          ]
      },
@@ -209,4 +105,3 @@
      }
     }
 ]
-
