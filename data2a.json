@@ -69,7 +69,7 @@
              {
                  "id": 0,
                  "content": "Translate into English",
-                 "image": "ch1-q1.png",
+                 "image": "ch1-q1",
                  "correctIndex": 2,
                  "answers": [
                      "who is this?",
