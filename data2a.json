@@ -68,7 +68,8 @@
          "questions": [
              {
                  "id": 0,
-                 "content": "Translate into English",
+                 "type":"Translate into English1",
+                 "content": "مَا هَذَا1 ؟",
                  "image": "ch1-q1.png",
                  "correctIndex": 2,
                  "answers": [
@@ -80,7 +81,8 @@
              },
              {
                  "id": 1,
-                 "content": "Translate into English",
+                 "type":"Translate into English2",
+                 "content": "مَا هَذَا2 ؟",
                  "image": "test",
                  "correctIndex": 3,
                  "answers": [
