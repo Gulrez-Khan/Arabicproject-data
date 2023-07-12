@@ -69,7 +69,7 @@
              {
                  "id": 0,
                  "type": "Translate into English1",
-                 "content": "مَا هَذَا1 ؟",
+                 "content": "مَا هَذَا ؟",
                  "image": "key",
                  "correctIndex": 2,
                  "answers": [
@@ -82,8 +82,8 @@
              {
                  "id": 1,
                  "type": "Translate into English2",
-                 "content": "مَا هَذَا2 ؟",
-                 "image": "test",
+                 "content": "مَا هَذَا ؟",
+                 "image": "house",
                  "correctIndex": 3,
                  "answers": [
                      "who is this?",
