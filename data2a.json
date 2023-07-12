@@ -82,14 +82,12 @@
              {
                  "id": 1,
                  "type": "Translate into English2",
-                 "content": "مَا هَذَا ؟",
+                 "content": "أَ هَذَا بَيْْتُ ؟",
                  "image": "house",
                  "correctIndex": 3,
                  "answers": [
-                     "who is this?",
-                     "who are they?",
-                     "what is this?",
-                     "Is this a key?"
+                     "نَعْم",
+                     "لَا"
                  ]
              }
          ]
