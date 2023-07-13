@@ -1,0 +1,207 @@
+[
+    {
+     "id": 1,
+     "category": "Chapter 1",
+     "content": {
+         "id": 0,
+         "image": "one",
+         "description": "Chapter 1",
+         "vocabs": [
+             {
+                 "id": 0,
+                 "englishWord": "a book",
+                 "arabicWord": " كِتَابٌ  "
+             },
+             {
+                 "id": 1,
+                 "englishWord": "a house",
+                 "arabicWord": " بَيْتٌ "
+             },
+             {
+                 "id": 2,
+                 "englishWord": "a door",
+                 "arabicWord": " بَابٌ "
+             },
+             {
+                 "id": 3,
+                 "englishWord": "a mosque",
+                 "arabicWord": " مَسْجِدٌ"
+             },
+             {
+                 "id": 4,
+                 "englishWord": "a pen",
+                 "arabicWord": " قَلَمٌ "
+             },
+             {
+                 "id": 5,
+                 "englishWord": "a key",
+                 "arabicWord": " مِفْتَاحٌ "
+             },
+             {
+                 "id": 6,
+                 "englishWord": "a desk",
+                 "arabicWord": " مَكْتَبٌ "
+             },
+             {
+                 "id": 7,
+                 "englishWord": "a bed",
+                 "arabicWord": " سَرِيْرٌ "
+             },
+             {
+                 "id": 8,
+                 "englishWord": "a chair",
+                 "arabicWord": " كُرْسِيُّ "
+             },
+             {
+                 "id": 9,
+                 "englishWord": "a star",
+                 "arabicWord": " نَجْمٌ "
+             },
+             {
+                 "id": 10,
+                 "englishWord": "a shirt",
+                 "arabicWord": " قَمِيْصٌ "
+             },
+             {
+                 "id": 11,
+                 "englishWord": "a doctor",
+                 "arabicWord": " طَبِيْبٌ "
+             },
+             {
+                 "id": 12,
+                 "englishWord": "a boy",
+                 "arabicWord": " وَلَدٌ "
+             },{
+                 "id": 13,
+                 "englishWord": "a student",
+                 "arabicWord": " طَالِبٌ  "
+             },
+             {
+                 "id": 14,
+                 "englishWord": "a man",
+                 "arabicWord": " رَجُلٌ "
+             },
+             {
+                 "id": 15,
+                 "englishWord": "a merchant",
+                 "arabicWord": " تَاجِرٌ "
+             },
+             {
+                 "id": 16,
+                 "englishWord": "a dog",
+                 "arabicWord": " كَلْبٌ "
+             },
+             {
+                 "id": 17,
+                 "englishWord": "a cat",
+                 "arabicWord": " قِطٌّ "
+             },
+             {
+                 "id": 18,
+                 "englishWord": "a donkey",
+                 "arabicWord": " حِمَارٌ "
+             },
+             {
+                 "id": 19,
+                 "englishWord": "a horse",
+                 "arabicWord": " حِصَانٌ "
+             },
+             {
+                 "id": 20,
+                 "englishWord": "a camel",
+                 "arabicWord": " جَمَلٌ "
+             },
+             {
+                 "id": 21,
+                 "englishWord": "a rooster",
+                 "arabicWord": " دِيْكٌ "
+             },
+             {
+                 "id": 22,
+                 "englishWord": "a teacher",
+                 "arabicWord": " مُدَرِّسٌ "
+             },
+             {
+                 "id": 23,
+                 "englishWord": "a handkerchief",
+                 "arabicWord": " مِنْدِيْلٌ "
+             }
+         ],
+         "lessons": [
+             {
+                 "id": 0,
+                 "title": "Vocabulary",
+                 "video": "Chapter1-Vocabulary.mp4",
+                 "time": "1 min 55 secs",
+                 "explanation": "a book. كِتَابٌ , a house.  بَيْتٌ ,  a door.  بَابٌ . "
+             },
+            {
+                "id": 1,
+                "title": "Rule 1",
+                "video": "Chapter1Rule1c.mp4",
+                "time": "15 secs",
+                "explanation": "There are 29 letters in Arabic language. 28 letters are the consonants. Alif is not consonant it does not have speech sound. When you say ā, it is hamzah not Alif. Hamzah has 3 forms: أ - ؤ - ئ. Long vowels are   ا ,   و , and  ي and they are use for elongation. Short vowels are 3 : fathha, kasrah, dummah. Short Vowels are  بَ    بِ    بُ . Long Vowels بَا     بِى     بُو .  Sakoon(o)  is not a vowel sign. In the word  بُو there is no vowel sign on و so there is sakoon and ب  has dammah. "
+            },
+            {
+                "id": 2,
+                "title": "Rule 2",
+                "video": "Chapter1Rule2c.mp4",
+                "time": "5 secs",
+                "explanation": "There are 3 part of speech in Arabic language. Noun اسم, Verb فعل and Particle حرف. Noun Includes Pronouns  ضمير  , Adjectives  نعت  , Adverbs   ظرف  and interjections. Noun Includes Prepositions  حرف جر  and Conjunctions عطف. "
+            },
+             {
+                "id": 3,
+                "title": "Rule 3",
+                "video": "Chapter1Rule3c.mp4",
+                "time": "15 secs",
+                "explanation": " The word هَذَا is pronounced  هَاذَا  ,  but it is written without the first alif. Arabic has no word corresponding to the English word IS  , i.e. Arabic has no copula. There is no word in Arabic corresponding to A in English as in THIS IS A BOOK. The n-sound at the end of the Arabic noun (kitabu-n, baitu-n, masjidu-n) is the Arabic indefinite article corresponding to the English A/AN. This n-sound is called tanwin. e.g. This is a house. هَذَا بَيْتٌ. The particle placed at the beginning of a statement turns it into a question, e.g. This is a house. هَذَا بَيْتٌ   Is this a house?    أَ هَذَا بَيْتٌ "
+            },
+             {
+                "id": 4,
+                "title": "Rule 4",
+                "video": "Chapter1Rule4c.mp4",
+                "time": "15 secs",
+                "explanation": "In Arabic we use  نَعْم  for  YES  and we use لَا for NO. Things that don't have intelligence are called  Irrational nouns غير عاقل . In Arabic, we use  مَا   meaning  WHAT. e.g. what is this? مَا هَذَا ؟ . This is a house. هَذَا بَيْتٌ . Things that  have intelligence are called  Rational nouns عاقل . In Arabic, we use   مَنْ  meaning  WHO مَنْ هَذَا ؟ . This is a boy. هَذَا وَلَدٌ"
+           },
+             {
+                "id": 5,
+                "title": "Lesson 1",
+                "video": "Chapter1Rule4c.mp4",
+                "time": "15 secs",
+                "explanation": "In Arabic we use  نَعْم  for  YES  and we use لَا for NO. Things that don't have intelligence are called  Irrational nouns غير عاقل . In Arabic, we use  مَا   meaning  WHAT. e.g. what is this? مَا هَذَا ؟ . This is a house. هَذَا بَيْتٌ . Things that  have intelligence are called  Rational nouns عاقل . In Arabic, we use   مَنْ  meaning  WHO مَنْ هَذَا ؟ . This is a boy. هَذَا وَلَدٌ"
+           }
+         ]
+     },
+     "test": {
+         "id": 0,
+         "image": "test",
+         "name": "Chapter 1 Test",
+         "questions": [
+             {
+                 "id": 0,
+                 "type": "Translate into English1",
+                 "content": "مَا هَذَا ؟",
+                 "image": "key",
+                 "correctIndex": 2,
+                 "answers": [
+                     "who is this?",
+                     "who are they?",
+                     "what is this?",
+                     "Is this a key?"
+                 ]
+             },
+             {
+                 "id": 1,
+                 "type": "Translate into English2",
+                 "content": "أَ هَذَا بَيْْتُ ؟",
+                 "image": "house",
+                 "correctIndex": 0,
+                 "answers": [
+                     "نَعْم",   
+                     "لَا"
+                 ]
+             }
+         ]
+     }
+    }
+]
