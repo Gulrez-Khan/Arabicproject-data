@@ -18,9 +18,113 @@
                  "arabicWord": " بَيْتٌ "
              },
              {
-                 "id": 3,
+                 "id": 2,
                  "englishWord": "a door",
                  "arabicWord": " بَابٌ "
+             },
+             {
+                 "id": 3,
+                 "englishWord": "a mosque",
+                 "arabicWord": " مَسْجِدٌ"
+             },
+             {
+                 "id": 4,
+                 "englishWord": "a pen",
+                 "arabicWord": " قَلَمٌ "
+             },
+             {
+                 "id": 5,
+                 "englishWord": "a key",
+                 "arabicWord": " مِفْتَاحٌ "
+             },
+             {
+                 "id": 6,
+                 "englishWord": "a desk",
+                 "arabicWord": " مَكْتَبٌ "
+             },
+             {
+                 "id": 7,
+                 "englishWord": "a bed",
+                 "arabicWord": " سَرِيْرٌ "
+             },
+             {
+                 "id": 8,
+                 "englishWord": "a chair",
+                 "arabicWord": " كُرْسِيُّ "
+             },
+             {
+                 "id": 9,
+                 "englishWord": "a star",
+                 "arabicWord": " نَجْمٌ "
+             },
+             {
+                 "id": 10,
+                 "englishWord": "a shirt",
+                 "arabicWord": " قَمِيْصٌ "
+             },
+             {
+                 "id": 11,
+                 "englishWord": "a doctor",
+                 "arabicWord": " طَبِيْبٌ "
+             },
+             {
+                 "id": 12,
+                 "englishWord": "a boy",
+                 "arabicWord": " وَلَدٌ "
+             },{
+                 "id": 13,
+                 "englishWord": "a student",
+                 "arabicWord": " طَالِبٌ  "
+             },
+             {
+                 "id": 14,
+                 "englishWord": "a man",
+                 "arabicWord": " رَجُلٌ "
+             },
+             {
+                 "id": 15,
+                 "englishWord": "a merchant",
+                 "arabicWord": " تَاجِرٌ "
+             },
+             {
+                 "id": 16,
+                 "englishWord": "a dog",
+                 "arabicWord": " كَلْبٌ "
+             },
+             {
+                 "id": 17,
+                 "englishWord": "a cat",
+                 "arabicWord": " قِطٌّ "
+             },
+             {
+                 "id": 18,
+                 "englishWord": "a donkey",
+                 "arabicWord": " حِمَارٌ "
+             },
+             {
+                 "id": 19,
+                 "englishWord": "a horse",
+                 "arabicWord": " حِصَانٌ "
+             },
+             {
+                 "id": 20,
+                 "englishWord": "a camel",
+                 "arabicWord": " جَمَلٌ "
+             },
+             {
+                 "id": 21,
+                 "englishWord": "a rooster",
+                 "arabicWord": " دِيْكٌ "
+             },
+             {
+                 "id": 22,
+                 "englishWord": "a teacher",
+                 "arabicWord": " مُدَرِّسٌ "
+             },
+             {
+                 "id": 23,
+                 "englishWord": "a handkerchief",
+                 "arabicWord": " مِنْدِيْلٌ "
              }
          ],
          "lessons": [
