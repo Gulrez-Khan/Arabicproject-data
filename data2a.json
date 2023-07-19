@@ -337,7 +337,7 @@
                  "type": "Fill in the blanks",
                  "content": " ———— هَذَا ",
                  "image": "mosque",
-                 "correctIndex": 1,
+                 "correctIndex": 2,
                  "answers": [
                     "بَيْتٌ", 
                      "بَابٌ", 
@@ -350,7 +350,7 @@
                  "type": "Fill in the blanks",
                  "content": " ———— هَذَا ",
                  "image": "pen",
-                 "correctIndex": 1,
+                 "correctIndex": 3,
                  "answers": [
                     "مَسْجِدٌ",
                  " مِفْتَاحٌ ",
