@@ -227,7 +227,47 @@
                      "هَذَا مِنْدِيْلٌ",
                      "هَذَا قَلَمٌ"
                  ]
+             },
+             {
+                 "id": 3,
+                 "type": "Answer the question",
+                 "content": "مَا هَذَا ؟",
+                 "image": "book",
+                 "correctIndex": 0,
+                 "answers": [
+                     "هَذَا كِتَابٌ",
+                     "هَذَا مِفْتَاح",
+                    "هَذَا طَبِيْبٌ", 
+                     "هَذَا مِنْدِيْلٌ"
+                 ]
+             },
+             {
+                 "id": 4,
+                 "type": "Translate into English",
+                 "content": "هَذَا بَابٌ",
+                 "image": "door",
+                 "correctIndex": 2,
+                 "answers": [
+                     "This is a house",
+                     "This is a boy",
+                     "This is a door",
+                     "This is a bed"
+                 ]
+             },
+             {
+                 "id": 5,
+                 "type": "Answer the question",
+                 "content": "مَا هَذَا ؟ ",
+                 "image": "pen",
+                 "correctIndex": 2,
+                 "answers": [
+                     "هَذَا قِطٌّ",
+                     "هَذَا مِفْتَاحٌ",
+                     "هَذَا قَلَمٌ",
+                     "هَذَا مِنْدِيْلٌ"
+                 ]
              }
+             
          ]
      }
     }
