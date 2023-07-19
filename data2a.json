@@ -214,32 +214,6 @@
                      "نَعْم",
                      "لَا"
                  ]
-             },
-             {
-                 "id": 2,
-                 "type": "Translate into English",
-                 "content": " مَا هَذَا ؟",
-                 "image": "key",
-                 "correctIndex": 2,
-                 "answers": [
-                    "Where is this?",
-                    "Who is this?",
-                    "What is this?",
-                    "This is a key."
-                 ]
-             },
-             {
-                 "id": 3,
-                 "type": "Answer the question",
-                 "content": " مَا هَذَا ؟",
-                 "image": "pen",
-                 "correctIndex": 3,
-                 "answers": [
-                    "هَذَا قِطٌّ",
-                    "هَذَا مِفْتَاحٌ",
-                     "هَذَا مِنْدِيْلٌ",
-                     "هَذَا قَلَمٌ "
-                 ]
              }
          ]
      }
