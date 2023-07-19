@@ -220,7 +220,7 @@
                  "type": "Answer the question",
                  "content": "مَا هَذَا ؟",
                  "image": "key",
-                 "correctIndex": 3,
+                 "correctIndex": 1,
                  "answers": [
                      "هَذَا قِطٌّ",
                      "هَذَا مِفْتَاحٌ",
