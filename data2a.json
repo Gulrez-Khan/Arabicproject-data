@@ -285,12 +285,25 @@
                  "type": "Answer the question",
                  "content": "أَ هَذَا بَيْتٌ ؟",
                  "image": "mosque",
-                 "correctIndex": 0,
+                 "correctIndex": 2,
                  "answers": [
                     "نَعَمْ ، هَذَا بَيْتٌ ",
                     "لَا ، هَذَا كُرْسِيٌ",
                     "لَا ، هَذَا مَسْجِدٌ",
                     "لَا ، هَذَا رَجُلٌ" 
+                 ]
+             },
+             {
+                 "id": 8,
+                 "type": "Answer the question",
+                 "content": " أَ هَذَا  مِفْتَاحٌ ؟",
+                 "image": "pen",
+                 "correctIndex": 1,
+                 "answers": [
+                    "نَعَمْ ،  هَذَا قَلَمٌ ",
+                    "لَا ،  هَذَا قَلَمٌ",
+                    "لَا ، هَذَا مَسْجِدٌ",
+                    "لَا ، هَذَا رَجُلٌ"
                  ]
              }
              
