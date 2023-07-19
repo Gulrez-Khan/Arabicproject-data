@@ -206,7 +206,7 @@
              },
              {
                  "id": 1,
-                 "type": "Translate into English",
+                 "type": "Answer the question",
                  "content": "أَ هَذَا بَيْْتُ ؟",
                  "image": "house",
                  "correctIndex": 0,
@@ -220,12 +220,12 @@
                  "type": "Answer the question",
                  "content": "مَا هَذَا ؟",
                  "image": "key",
-                 "correctIndex": 2,
+                 "correctIndex": 3,
                  "answers": [
                      "هَذَا قِطٌّ",
-                    "هَذَا مِفْتَاحٌ",
+                     "هَذَا مِفْتَاحٌ",
                      "هَذَا مِنْدِيْلٌ",
-                     "هَذَا قَلَمٌ "
+                     "هَذَا قَلَمٌ"
                  ]
              }
          ]
