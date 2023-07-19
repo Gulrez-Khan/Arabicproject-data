@@ -218,12 +218,14 @@
              {
                  "id": 2,
                  "type": "Translate into English",
-                 "content": "أَ هَذَا بَيْْتُ ؟",
-                 "image": "house",
-                 "correctIndex": 0,
+                 "content": "مَا هَذَا ؟",
+                 "image": "key",
+                 "correctIndex": 2,
                  "answers": [
-                     "نَعْم",
-                     "لَا"
+                     "Where is this?",
+                    "Who is this?",
+                    "What is this?",
+                    "This is a key."
                  ]
              }
          ]
