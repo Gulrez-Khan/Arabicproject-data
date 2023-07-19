@@ -322,7 +322,7 @@
              {
                  "id": 10,
                  "type": "Fill in the blanks",
-                 "content": " ———— هَذَا ",
+                 "content": " —— هَذَا ",
                  "image": "desk",
                  "correctIndex": 1,
                  "answers": [
@@ -335,7 +335,7 @@
              {
                  "id": 11,
                  "type": "Fill in the blanks",
-                 "content": " ———— هَذَا ",
+                 "content": " —— هَذَا ",
                  "image": "mosque",
                  "correctIndex": 2,
                  "answers": [
@@ -348,7 +348,7 @@
              {
                  "id": 12,
                  "type": "Fill in the blanks",
-                 "content": " ———— هَذَا ",
+                 "content": " —— هَذَا ",
                  "image": "pen",
                  "correctIndex": 3,
                  "answers": [
