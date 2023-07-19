@@ -331,6 +331,19 @@
                     "بَابٌ",
                     "قَمِيْصٌ"
                  ]
+             },
+             {
+                 "id": 11,
+                 "type": "Fill in the blanks",
+                 "content": " ———— هَذَا ",
+                 "image": "mosque",
+                 "correctIndex": 1,
+                 "answers": [
+                    "بَيْتٌ", 
+                     "بَابٌ", 
+                     "مَسْجِدٌ",
+                    "قَلَمٌ ",
+                 ]
              }
              
              
