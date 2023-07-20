@@ -322,7 +322,7 @@
              {
                  "id": 10,
                  "type": "Fill in the blanks",
-                 "content": " —— هَذَا ",
+                 "content": "....هَذَا ",
                  "image": "desk",
                  "correctIndex": 1,
                  "answers": [
@@ -335,7 +335,7 @@
              {
                  "id": 11,
                  "type": "Fill in the blanks",
-                 "content": " —— هَذَا ",
+                 "content": "....هَذَا ",
                  "image": "mosque",
                  "correctIndex": 2,
                  "answers": [
@@ -348,7 +348,7 @@
              {
                  "id": 12,
                  "type": "Fill in the blanks",
-                 "content": " —— هَذَا ",
+                 "content": "....هَذَا ",
                  "image": "pen",
                  "correctIndex": 3,
                  "answers": [
@@ -361,9 +361,9 @@
              {
                  "id": 13,
                  "type": "Fill in the blanks",
-                 "content": " ———— هَذَا ",
+                 "content": "....هَذَا ",
                  "image": "bed",
-                 "correctIndex": 3,
+                 "correctIndex": 1,
                  "answers": [
                    "مَكْتَبٌ ",
                      "سَرِيْرٌ ",
@@ -374,7 +374,7 @@
              {
                  "id": 14,
                  "type": "Answer the question",
-                 "content": " أَ هَذَا   قَمِيْصٌ ",
+                 "content": " أَ هَذَا قَمِيْصٌ ",
                  "image": "shirt",
                  "correctIndex": 0,
                  "answers": [
@@ -415,7 +415,7 @@
                  "type": "Translate into English",
                  "content": " مَا هَذَا ؟  هَذَا  مِفْتَاحٌ",
                  "image": "key",
-                 "correctIndex": 2,
+                 "correctIndex": 3,
                  "answers": [
                     "What is this? This is a house.",
                     "What is this? This is a book.",
@@ -441,7 +441,7 @@
                  "type": "Translate into English",
                  "content": "هَذَا  كَلْبٌ",
                  "image": "dog",
-                 "correctIndex": 3,
+                 "correctIndex": 1,
                  "answers": [
                     "Is this a dog",
                     "This is a dog",
@@ -553,10 +553,6 @@
                     "Who is this? This is a key."
                  ]
              }
-             
-             
-             
-             
          ]
      }
     }
