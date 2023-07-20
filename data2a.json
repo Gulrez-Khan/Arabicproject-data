@@ -500,7 +500,73 @@
                     "Is this a cat? No, this is a dog.",
                      "Is this a dog? No, this is a cat."
                  ]
+             },
+             {
+                 "id": 24,
+                 "type": "Translate into English",
+                 "content": "أَ هَذَا  دِيْكٌ  ؟  نَعَمْ",
+                 "image": "rooster",
+                 "correctIndex": 1,
+                 "answers": [
+                    "What is this? This is a rooster.",
+                    "Is this a rooster? Yes",
+                    "Is this a rooster? No",
+                    "Yes, this is a rooster."
+                 ]
+             },
+             {
+                 "id": 25,
+                 "type": "Translate into English",
+                 "content": " أَ هَذَا  حِصَانٌ  ؟ لَا ، هَذَا  حِمَارٌ ",
+                 "image": "donkey",
+                 "correctIndex": 2,
+                 "answers": [
+                    "Is this a horse? Yes, this is a horse.",
+                    "Is this a donkey? No, this is a horse.",
+                    "Is this a horse? No, this is a donkey.",
+                    "What is this? Yes, this is a key."
+                 ]
+             },
+             {
+                 "id": 26,
+                 "type": "Translate into English",
+                 "content": " هَذَا مِنْدِيْلٌ",
+                 "image": "handkerchief",
+                 "correctIndex": 2,
+                 "answers": [
+                    "This is a shirt.",
+                    "This is a pen.",
+                    "This is a handkerchief.",
+                    "This is a key."
+                 ]
+             },
+             {
+                 "id": 27,
+                 "type": "Translate into English",
+                 "content": " أَ هَذَا وَلَدٌ ؟ نَعَمْ ",
+                 "image": boy",
+                 "correctIndex": 3,
+                 "answers": [
+                    "Who is this? This is a boy.",
+                    "What is this? This is a pen.",
+                    "Who is this? this is a man.",
+                    "Is this a boy? Yes."
+                 ]
+             },
+             {
+                 "id": 28,
+                 "type": "Translate into English",
+                 "content": " مَنْ هَذَا ؟  هَذَا  رَجُلٌ",
+                 "image": "man",
+                 "correctIndex": 1,
+                 "answers": [
+                    "Who is this? This is a boy.",
+                    "Who is this? This is a man.",
+                    "What is this? This is a man.",
+                    "Who is this? This is a key."
+                 ]
              }
+             
              
              
              
