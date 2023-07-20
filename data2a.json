@@ -544,7 +544,7 @@
                  "id": 27,
                  "type": "Translate into English",
                  "content": " أَ هَذَا وَلَدٌ ؟ نَعَمْ ",
-                 "image": boy",
+                 "image": "boy",
                  "correctIndex": 3,
                  "answers": [
                     "Who is this? This is a boy.",
