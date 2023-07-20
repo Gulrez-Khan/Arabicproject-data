@@ -321,8 +321,8 @@
              },
              {
                  "id": 10,
-                 "type": "Fill in the blanks",
-                 "content": "_______هَذَا ",
+                 "type": "Complete the sentence.",
+                 "content": "هَذَا ",
                  "image": "desk",
                  "correctIndex": 1,
                  "answers": [
@@ -334,8 +334,8 @@
              },
              {
                  "id": 11,
-                 "type": "Fill in the blanks",
-                 "content": "______هَذَا",
+                 "type": "Complete the sentence.",
+                 "content": "هَذَا",
                  "image": "mosque",
                  "correctIndex": 2,
                  "answers": [
@@ -347,8 +347,8 @@
              },
              {
                  "id": 12,
-                 "type": "Fill in the blanks",
-                 "content": "______هَذَا",
+                 "type": "Complete the sentence.",
+                 "content": "هَذَا",
                  "image": "pen",
                  "correctIndex": 3,
                  "answers": [
@@ -360,8 +360,8 @@
              },
              {
                  "id": 13,
-                 "type": "Fill in the blanks",
-                 "content": "_______هَذَا",
+                 "type": "Complete the sentence.",
+                 "content": "هَذَا",
                  "image": "bed",
                  "correctIndex": 1,
                  "answers": [
