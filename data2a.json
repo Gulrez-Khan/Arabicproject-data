@@ -439,19 +439,6 @@
              {
                  "id": 19,
                  "type": "Translate into English",
-                 "content": "  مَا هَذَا ؟ هَذَا قَلَمٌ",
-                 "image": "pen",
-                 "correctIndex": 3,
-                 "answers": [
-                    "What is this? This is a book.",
-                    "What is this? This is a key.",
-                    "Yes, this is a key.",
-                    "What is this? This is a pen."
-                 ]
-             },
-             {
-                 "id": 20,
-                 "type": "Translate into English",
                  "content": "هَذَا  كَلْبٌ",
                  "image": "dog",
                  "correctIndex": 3,
@@ -463,7 +450,7 @@
                  ]
              },
              {
-                 "id": 21,
+                 "id": 20,
                  "type": "Translate into English",
                  "content": " مَنْ هَذَا ؟  هَذَا طَبِيْبٌ ",
                  "image": "doctor",
@@ -476,7 +463,7 @@
                  ]
              },
              {
-                 "id": 22,
+                 "id": 21,
                  "type": "Translate into English",
                  "content": " هَذَا جَمَلٌ",
                  "image": "camel",
@@ -489,7 +476,7 @@
                  ]
              },
              {
-                 "id": 23,
+                 "id": 22,
                  "type": "Translate into English",
                  "content": "أَ هَذَا كَلْبٌ ؟ لَا ، هَذَا قِطٌّ ",
                  "image": "cat",
@@ -502,7 +489,7 @@
                  ]
              },
              {
-                 "id": 24,
+                 "id": 23,
                  "type": "Translate into English",
                  "content": "أَ هَذَا  دِيْكٌ  ؟  نَعَمْ",
                  "image": "rooster",
@@ -515,7 +502,7 @@
                  ]
              },
              {
-                 "id": 25,
+                 "id": 24,
                  "type": "Translate into English",
                  "content": " أَ هَذَا  حِصَانٌ  ؟ لَا ، هَذَا  حِمَارٌ ",
                  "image": "donkey",
@@ -528,7 +515,7 @@
                  ]
              },
              {
-                 "id": 26,
+                 "id": 25,
                  "type": "Translate into English",
                  "content": " هَذَا مِنْدِيْلٌ",
                  "image": "handkerchief",
@@ -541,7 +528,7 @@
                  ]
              },
              {
-                 "id": 27,
+                 "id": 26,
                  "type": "Translate into English",
                  "content": " أَ هَذَا وَلَدٌ ؟ نَعَمْ ",
                  "image": "boy",
@@ -554,7 +541,7 @@
                  ]
              },
              {
-                 "id": 28,
+                 "id": 27,
                  "type": "Translate into English",
                  "content": " مَنْ هَذَا ؟  هَذَا  رَجُلٌ",
                  "image": "man",
