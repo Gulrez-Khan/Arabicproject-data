@@ -357,7 +357,151 @@
                   "مَكْتَبٌ ",
                     "قَلَمٌ "
                  ]
+             },
+             {
+                 "id": 13,
+                 "type": "Fill in the blanks",
+                 "content": " ———— هَذَا ",
+                 "image": "bed",
+                 "correctIndex": 3,
+                 "answers": [
+                   "مَكْتَبٌ ",
+                     "سَرِيْرٌ ",
+                     "كُرْسِيُّ ",
+                    "نَجْمٌ "
+                 ]
+             },
+             {
+                 "id": 14,
+                 "type": "Answer the question",
+                 "content": " أَ هَذَا   قَمِيْصٌ ",
+                 "image": "shirt",
+                 "correctIndex": 0,
+                 "answers": [
+                    "نَعَمْ ، هَذَا  قَمِيْصٌ",
+                    "لَا ،  هَذَا قَلَمٌ",
+                    "لَا ، هَذَا مَسْجِدٌ",
+                    "لَا ، هَذَا رَجُلٌ"
+                 ]
+             },
+             {
+                 "id": 15,
+                 "type": "Translate into English",
+                 "content": " أَ هَذَا بَيْتٌ ؟ ",
+                 "image": "house",
+                 "correctIndex": 1,
+                 "answers": [
+                    "Is this a book?",
+                    "Is this a house?",
+                    "Is this a mosque?",
+                    "Is this a pen?"
+                 ]
+             },
+             {
+                 "id": 16,
+                 "type": "Translate into English",
+                 "content": "  لَا ، هَذَا مَسْجِدٌ",
+                 "image": "mosque",
+                 "correctIndex": 2,
+                 "answers": [
+                    "No, this is a book.",
+                    "Yes, this is a mosque.",
+                     "No, this is a mosque.",
+                    "No, this is a house."
+                 ]
+             },
+             {
+                 "id": 17,
+                 "type": "Translate into English",
+                 "content": " مَا هَذَا ؟  هَذَا  مِفْتَاحٌ",
+                 "image": "key",
+                 "correctIndex": 2,
+                 "answers": [
+                    "What is this? This is a house.",
+                    "What is this? This is a book.",
+                    "Yes, this is a key.",
+                    "What is this? This is a key."
+                 ]
+             },
+             {
+                 "id": 18,
+                 "type": "Translate into English",
+                 "content": "  مَا هَذَا ؟ هَذَا قَلَمٌ",
+                 "image": "pen",
+                 "correctIndex": 3,
+                 "answers": [
+                    "What is this? This is a book.",
+                    "What is this? This is a key.",
+                    "Yes, this is a key.",
+                    "What is this? This is a pen."
+                 ]
+             },
+             {
+                 "id": 19,
+                 "type": "Translate into English",
+                 "content": "  مَا هَذَا ؟ هَذَا قَلَمٌ",
+                 "image": "pen",
+                 "correctIndex": 3,
+                 "answers": [
+                    "What is this? This is a book.",
+                    "What is this? This is a key.",
+                    "Yes, this is a key.",
+                    "What is this? This is a pen."
+                 ]
+             },
+             {
+                 "id": 20,
+                 "type": "Translate into English",
+                 "content": "هَذَا  كَلْبٌ",
+                 "image": "dog",
+                 "correctIndex": 3,
+                 "answers": [
+                    "Is this a dog",
+                    "This is a dog",
+                    "This is a cat",
+                    "is this a cat"
+                 ]
+             },
+             {
+                 "id": 21,
+                 "type": "Translate into English",
+                 "content": " مَنْ هَذَا ؟  هَذَا طَبِيْبٌ ",
+                 "image": "doctor",
+                 "correctIndex": 0,
+                 "answers": [
+                    "Who is this? This is a doctor.",
+                    "What is this? This is a man.",
+                    "Who is this? This is a man.",
+                    "What is this? This is a doctor."
+                 ]
+             },
+             {
+                 "id": 22,
+                 "type": "Translate into English",
+                 "content": " هَذَا جَمَلٌ",
+                 "image": "camel",
+                 "correctIndex": 0,
+                 "answers": [
+                    "This is a camel.",
+                    "This is a cat.",
+                    "Is this a camel?",
+                    "Yes, this is a camel."
+                 ]
+             },
+             {
+                 "id": 23,
+                 "type": "Translate into English",
+                 "content": "أَ هَذَا كَلْبٌ ؟ لَا ، هَذَا قِطٌّ ",
+                 "image": "cat",
+                 "correctIndex": 3,
+                 "answers": [
+                    "What is this? No, this is a cat.",
+                    "What is this? Yes, this is a cat.",
+                    "Is this a cat? No, this is a dog.",
+                     "Is this a dog? No, this is a cat."
+                 ]
              }
+             
              
              
          ]
